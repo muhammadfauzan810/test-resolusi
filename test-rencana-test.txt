@@ -2,6 +2,9 @@ RENCANA TEST
 
 -JAVASCRIPT
   *framework javascript
+   vue
 -BOOTSTRAP
 -PHP
+ laravel
 -flutter
+-PYTHON

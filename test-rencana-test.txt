@@ -1,5 +1,6 @@
 RENCANA TEST
 
 -JAVASCRIPT
+  *framework javascript
 -BOOTSTRAP
 -PHP

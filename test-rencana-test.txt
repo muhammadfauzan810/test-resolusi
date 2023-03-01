@@ -3,6 +3,7 @@ RENCANA TEST
 -JAVASCRIPT
   *framework javascript
    vue
+   react
 -BOOTSTRAP
 -PHP
  laravel
